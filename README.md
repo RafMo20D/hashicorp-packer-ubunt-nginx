@@ -2,17 +2,7 @@
 
 # Packer
 
-[![Build Status](https://github.com/hashicorp/packer/actions/workflows/build.yml/badge.svg)](https://github.com/hashicorp/packer/actions/workflows/build.yml)
-[![Discuss](https://img.shields.io/badge/discuss-packer-3d89ff?style=flat)](https://discuss.hashicorp.com/c/packer)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/hashicorp/packer)](https://pkg.go.dev/github.com/hashicorp/packer)
-[![GoReportCard][report-badge]][report]
 
-[github-badge]: https://github.com/hashicorp/packer/actions/workflows/build.yml/badge.svg
-[appveyor-badge]: https://ci.appveyor.com/api/projects/status/miavlgnp989e5obc/branch/master?svg=true
-[godoc-badge]: https://godoc.org/github.com/hashicorp/packer?status.svg
-[godoc]: https://godoc.org/github.com/hashicorp/packer
-[report-badge]: https://goreportcard.com/badge/github.com/hashicorp/packer
-[report]: https://goreportcard.com/report/github.com/hashicorp/packer
 
 <p align="center" style="text-align:center;">
   <a href="https://www.packer.io">
